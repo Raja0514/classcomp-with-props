@@ -6,7 +6,7 @@ class Card3 extends  Component{
             <React.Fragment>
                 <div>
                     <h1>Nature of Oman</h1>
-                    <img src="five.jpg"></img>
+                    <img src="five.jpg" alt="load error"></img>
                     <h1>Name:{this.props.name}<br></br>
                     Location:{this.props.location}<br></br>
                     Region:{this.props.region}</h1>
